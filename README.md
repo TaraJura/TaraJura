@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on qrmenicka.cz
+- 🔭 I’m currently working on https://qrmenicka.cz/
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on interesting Front-End projects
 - 🤔 I’m looking for help with jobs oportunity. 
