@@ -1,7 +1,7 @@
 - 🔭 I’m currently working on https://qrmenicka.cz/
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on interesting Front-End projects
-- 🤔 I’m looking for help with jobs oportunity. 
+- 🤔 I’m looking for help with projects oportunity. 
 - 💬 Ask me about anything you want
 - 📫 How to reach me: +420 603 328 374 / jirkanovakneda11@seznam.cz
 - ⚡ Fun fact: Born as a Gamer
