@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on https://tarajura.github.io/BaronFight/ and https://qrmenicka.cz/
+- 🔭 I’m currently working on https://github.com/TaraJura/NewWorld-WIki-CZ-SK
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on interesting Front-End projects
 - 🤔 I’m looking for help with projects oportunity. 
