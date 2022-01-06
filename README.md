@@ -1,7 +1,6 @@
 - 🔭 I’m currently working on RentMe via Repository
 - 🌱 I’m currently learning Ruby on Rails 
-- 👯 I’m looking to collaborate on interesting Front-End projects
-- 🤔 I’m looking for help with projects oportunity. 
-- 💬 Ask me about anything you want 
+- 👯 I’m looking to collaborate on interesting projects
+- 💬 Ask me about anything you want
 - 📫 How to reach me: jirkanovakneda11@seznam.cz
 - ⚡ Fun fact: Born as a Gamer
