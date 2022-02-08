@@ -2,5 +2,5 @@
 - 🌱 I’m currently learning Ruby on Rails 
 - 👯 I’m looking to collaborate on interesting projects
 - 💬 Ask me about anything you want
-- 📫 How to reach me: jirkanovakneda11@seznam.cz
+- 📫 How to reach me: jirkanovakneda11@seznam.cz (100% active within 48h)
 - ⚡ Fun fact: Born as a Gamer
