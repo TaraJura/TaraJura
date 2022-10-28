@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on APIs
+- 🔭 I’m currently working on Rails apps
 - 🌱 I’m currently learning How to improve myself.
 - 👯 I’m looking for people building great projects and great talks in Prague
 - 💬 Ask me about anything you want
