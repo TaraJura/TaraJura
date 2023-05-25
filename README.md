@@ -30,29 +30,19 @@
 ![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite&logoColor=grey&color=A8D145)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=grey&color=A8D145)
 
-
-
-  
 </div>
 
 <div align='center'>
 
 <div align='center'>
 
-
 </div>
-
-
 
 <div align='center'>
 
 <hr>
 
-
 </div>
-
-<hr>
-
 
 | _My GitHub Stats_ | _My Languages_ |
 | :---------------: | :------------: |
