@@ -59,7 +59,7 @@
 | _My GitHub Stats_ | _My Languages_ |
 | :---------------: | :------------: |
 | <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=Wusinho&show_icons=true&theme=merko"></a>| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wusinho&langs_count=10&theme=merko&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=tarajura&show_icons=true&theme=merko%22%3E%3C/a%3E|%20%3Ca%20href=%22https://github.com/anuraghazra/github-readme-stats%22%3E%3Cimg%20src=%22https://github-readme-stats.vercel.app/api/top-langs/?username=Wusinho&langs_count=10&theme=merko&layout=compact">
 </a> |
 
 
