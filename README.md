@@ -1,5 +1,4 @@
 - 📫 How to reach me: jiri.novak@techtools.cz
-- 
 # LANGUAGES
 
 </div>
