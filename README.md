@@ -1,5 +1,5 @@
-- 📫 How to reach me: jirkanovakneda11@seznam.cz
-
+- 📫 How to reach me: jiri.novak@techtools.cz
+- 
 # LANGUAGES
 
 </div>
