@@ -1,5 +1,5 @@
 - 📫 How to reach me: jiri.novak@techtools.cz
-<kbd> test </kbd>
+
 # LANGUAGES
 
 </div>
@@ -49,3 +49,5 @@
   You are visitor number: <br>
   <img src="https://profile-counter.glitch.me/tarajura/count.svg" />
 </p>
+
+<kbd> Click me! </kbd>
