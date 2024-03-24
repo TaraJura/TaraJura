@@ -1,4 +1,4 @@
-- 📫 How to reach me: jiri.novak@techtools.cz
+- 📫 How to reach me: root@techtools.cz
 
 # LANGUAGES
 
