@@ -50,4 +50,3 @@
   <img src="https://profile-counter.glitch.me/tarajura/count.svg" />
 </p>
 
-<kbd> Click me! </kbd>
