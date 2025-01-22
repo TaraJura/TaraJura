@@ -1,4 +1,4 @@
-- 📫 How to reach me: root@techtools.cz
+- 📫 How to reach me: x@techtools.cz
 
 # LANGUAGES
 
