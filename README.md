@@ -1,10 +1,3 @@
-Currently working on multiplayer web game: [Empire Conquest](https://game.techtools.cz/)
-
-<img width="1535" height="905" alt="image" src="https://github.com/user-attachments/assets/4d39a3f0-1897-47fa-abf2-6f5ebad4f67a" />
-
-
-
-
 # LANGUAGES
 
 </div>
