@@ -1,7 +1,3 @@
-# LANGUAGES
-
-</div>
-
 <div align='center'>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=A8D145)
