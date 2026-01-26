@@ -15,9 +15,7 @@
 <div align='center'>
 
 ![](https://img.shields.io/badge/Rails-informational?style=flat&logo=ruby-on-rails&logoColor=grey&color=A8D145)
-![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=grey&color=A8D145)
 ![](https://img.shields.io/badge/VSC-VSC?style=flat&logo=visual-studio-code&logoColor=grey&color=A8D145)
-
 ![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite&logoColor=grey&color=A8D145)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=grey&color=A8D145)
 
