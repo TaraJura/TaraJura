@@ -2,18 +2,6 @@
   <img width="680" height="220" alt="ruby_love_banner" src="https://github.com/user-attachments/assets/13e47e50-d99e-42b3-b7e4-4ff1618e5789" />
 </div>
 
-<br/>
-
-<div align="center">
-
-# Jirka Novák
-
-**Ruby Developer · AI Specialist · Linux Enthusiast · Open Source Advocate**
-
-Prague, Czech Republic &nbsp;·&nbsp; [techtools.cz](https://techtools.cz) &nbsp;·&nbsp; [root@techtools.cz](mailto:root@techtools.cz)
-
-</div>
-
 ---
 
 ## About me
