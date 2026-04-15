@@ -4,7 +4,7 @@
 
 ---
 
-## About me
+### About me
 
 I build things with Ruby and Rails — from legal document automation platforms and AI-powered pipelines to supply chain tools and autonomous agent systems. I run [TechTools s.r.o.](https://techtools.cz), a small dev shop based in Prague, where I work on my own products and take on contract work.
 
@@ -14,7 +14,7 @@ When I'm not coding I'm probably gaming, tinkering with home automation, or read
 
 ---
 
-## Stack
+### Stack
 
 <div align="center">
 
