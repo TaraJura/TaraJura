@@ -10,7 +10,7 @@ I build things with Ruby and Rails — from legal document automation platforms 
 
 Most of my time goes into integrating LLMs (Anthropic, OpenAI, Azure) into real production Rails apps, wrangling Linux servers, and automating whatever can be automated.
 
-When I'm not coding I'm probably gaming, tinkering with home automation, or reading about something I'll turn into a side project.
+Off the keyboard I'm taking care of our little one <3 and our family, and whenever there's time left, I'm probably tinkering with electronics (Raspberry Pi 5, Arduino Uno), 3D printing something or reading about the AI boom.
 
 ---
 
