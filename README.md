@@ -6,7 +6,7 @@
 
 ### About me
 
-I build things with Ruby and Rails — from legal document automation platforms and AI-powered pipelines to supply chain tools and autonomous agent systems. I run [TechTools s.r.o.](https://techtools.cz), a small dev shop based in Prague, where I work on my own products and take on contract work.
+I build things with Ruby and Rails, from legal document automation platforms and AI-powered pipelines to supply chain tools and autonomous agent systems. I run [TechTools s.r.o.](https://techtools.cz), a small dev shop based in Prague, where I work on my own products and take on contract work.
 
 Most of my time goes into integrating LLMs (Anthropic, OpenAI, Azure) into real production Rails apps, wrangling Linux servers, and automating whatever can be automated.
 
